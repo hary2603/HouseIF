@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="6">
+      <Unit0>
+        <Filename Value="Hausinterface.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos Y="18"/>
+        <UsageCount Value="43"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="unithaus.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Heizung"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="319"/>
+        <CursorPos X="110" Y="197"/>
+        <UsageCount Value="43"/>
+        <Bookmarks Count="1">
+          <Item0 X="43" Y="180" ID="1"/>
+        </Bookmarks>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\lazarus\fpc\2.6.2\source\packages\fcl-json\src\fpjson.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="118"/>
+        <UsageCount Value="19"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="C:\lazarus\fpc\2.6.2\source\packages\fcl-json\src\jsonparser.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="85"/>
+        <UsageCount Value="19"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="C:\lazarus\fpc\2.6.2\source\packages\fcl-base\src\syncobjs.pp"/>
+        <UsageCount Value="16"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="C:\Users\hary\Desktop\bgracontrols-2.2\bgracontrols-2.2\bgraspriteanimation.pas"/>
+        <UnitName Value="BGRASpriteAnimation"/>
+        <CursorPos X="47" Y="5"/>
+        <UsageCount Value="9"/>
+      </Unit5>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="unithaus.pas"/>
+        <Caret Line="172" TopLine="150"/>
+      </Position1>
+      <Position2>
+        <Filename Value="unithaus.pas"/>
+        <Caret Line="173" TopLine="150"/>
+      </Position2>
+      <Position3>
+        <Filename Value="unithaus.pas"/>
+        <Caret Line="268" Column="8" TopLine="239"/>
+      </Position3>
+      <Position4>
+        <Filename Value="unithaus.pas"/>
+        <Caret Line="254" Column="7" TopLine="247"/>
+      </Position4>
+      <Position5>
+        <Filename Value="unithaus.pas"/>
+        <Caret Line="270" Column="42" TopLine="248"/>
+      </Position5>
+      <Position6>
+        <Filename Value="unithaus.pas"/>
+        <Caret Line="144" Column="19" TopLine="123"/>
+      </Position6>
+      <Position7>
+        <Filename Value="unithaus.pas"/>
+        <Caret Line="187" Column="32" TopLine="145"/>
+      </Position7>
+      <Position8>
+        <Filename Value="unithaus.pas"/>
+        <Caret Line="186" TopLine="162"/>
+      </Position8>
+      <Position9>
+        <Filename Value="unithaus.pas"/>
+        <Caret Line="137" Column="19" TopLine="125"/>
+      </Position9>
+      <Position10>
+        <Filename Value="unithaus.pas"/>
+        <Caret Line="290" Column="30" TopLine="280"/>
+      </Position10>
+      <Position11>
+        <Filename Value="unithaus.pas"/>
+        <Caret Line="220" Column="3" TopLine="217"/>
+      </Position11>
+      <Position12>
+        <Filename Value="unithaus.pas"/>
+        <Caret Line="258" Column="3" TopLine="256"/>
+      </Position12>
+      <Position13>
+        <Filename Value="unithaus.pas"/>
+        <Caret Line="6" Column="16"/>
+      </Position13>
+      <Position14>
+        <Filename Value="unithaus.pas"/>
+        <Caret Line="74" Column="11" TopLine="33"/>
+      </Position14>
+      <Position15>
+        <Filename Value="unithaus.pas"/>
+        <Caret Line="96" Column="21" TopLine="55"/>
+      </Position15>
+      <Position16>
+        <Filename Value="unithaus.pas"/>
+        <Caret Line="209" Column="24" TopLine="209"/>
+      </Position16>
+      <Position17>
+        <Filename Value="unithaus.pas"/>
+        <Caret Line="208" Column="24" TopLine="208"/>
+      </Position17>
+      <Position18>
+        <Filename Value="unithaus.pas"/>
+        <Caret Line="209" Column="24" TopLine="209"/>
+      </Position18>
+      <Position19>
+        <Filename Value="unithaus.pas"/>
+        <Caret Line="239" Column="9" TopLine="215"/>
+      </Position19>
+      <Position20>
+        <Filename Value="unithaus.pas"/>
+        <Caret Line="263" TopLine="241"/>
+      </Position20>
+      <Position21>
+        <Filename Value="unithaus.pas"/>
+        <Caret Line="313" Column="33" TopLine="293"/>
+      </Position21>
+      <Position22>
+        <Filename Value="unithaus.pas"/>
+        <Caret Line="337" Column="35" TopLine="309"/>
+      </Position22>
+      <Position23>
+        <Filename Value="unithaus.pas"/>
+        <Caret Line="233" Column="19" TopLine="233"/>
+      </Position23>
+      <Position24>
+        <Filename Value="unithaus.pas"/>
+        <Caret Line="347" Column="15" TopLine="319"/>
+      </Position24>
+      <Position25>
+        <Filename Value="unithaus.pas"/>
+        <Caret Line="313" Column="18" TopLine="289"/>
+      </Position25>
+      <Position26>
+        <Filename Value="unithaus.pas"/>
+        <Caret Line="297" Column="43" TopLine="145"/>
+      </Position26>
+      <Position27>
+        <Filename Value="Hausinterface.lpr"/>
+        <Caret Line="6" Column="11"/>
+      </Position27>
+      <Position28>
+        <Filename Value="unithaus.pas"/>
+        <Caret Line="252" TopLine="220"/>
+      </Position28>
+      <Position29>
+        <Filename Value="Hausinterface.lpr"/>
+        <Caret Line="19" Column="3"/>
+      </Position29>
+      <Position30>
+        <Filename Value="unithaus.pas"/>
+        <Caret Line="257" Column="3" TopLine="240"/>
+      </Position30>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode="default"/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
